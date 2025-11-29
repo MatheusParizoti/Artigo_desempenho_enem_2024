@@ -20,6 +20,7 @@ O objetivo deste estudo foi analisar os fatores que influenciam o desempenho dos
 - Fatores socioeconômicos, como a renda familiar.
 - Diferenças regionais e municipais.
 
+
 ## Metodologia
 
 Utilizamos duas bases de dados disponibilizadas pelo INEP:
@@ -37,15 +38,18 @@ A análise foi realizada utilizando a linguagem Python, com as bibliotecas `Pand
 ### Gráficos e Mapas
 
 - **Gráfico 1**: Correlação entre o tipo de escola e as médias do ENEM.
-- **Gráfico 2**: Comparação de participação por sexo entre escolas públicas e privadas.
+<p align="center">
+  <img src="imagens/grafico1.png" alt="Gráfico 1" width="700">
+</p>
+- **Gráfico 2**: Comparação dos municipios com maiores notas gerais.
+<p align="center">
+  <img src="imagens/grafico1.png" alt="Gráfico 1" width="700">
+</p>
 - **Mapa 1**: Mapa de calor com as médias das notas por município.
+<p align="center">
+  <img src="imagens/grafico1.png" alt="Gráfico 1" width="700">
+</p>
 
 Esses e outros resultados podem ser visualizados na seção de código.
 
-## Instruções de Uso
-
-1. Clone este repositório em sua máquina local:
-
-   ```bash
-   git clone https://github.com/usuario/nome-do-repositorio.git
 

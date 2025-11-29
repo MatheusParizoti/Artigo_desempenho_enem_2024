@@ -39,15 +39,15 @@ A análise foi realizada utilizando a linguagem Python, com as bibliotecas `Pand
 
 - **Gráfico 1**: Correlação entre o tipo de escola e as médias do ENEM.
 <p align="center">
-  <img src="imagens/grafico1.png" alt="Gráfico 1" width="700">
+  <img src="img_graficos/correlacao.jpg" alt="Gráfico 1" width="700">
 </p>
 - **Gráfico 2**: Comparação dos municipios com maiores notas gerais.
 <p align="center">
-  <img src="imagens/grafico1.png" alt="Gráfico 1" width="700">
+  <img src="img_graficos/grafico_top3.png" alt="Gráfico 1" width="700">
 </p>
 - **Mapa 1**: Mapa de calor com as médias das notas por município.
 <p align="center">
-  <img src="imagens/grafico1.png" alt="Gráfico 1" width="700">
+  <img src="img_graficos/mapa_calor.png" alt="Gráfico 1" width="700">
 </p>
 
 Esses e outros resultados podem ser visualizados na seção de código.

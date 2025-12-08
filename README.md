@@ -50,6 +50,12 @@ A análise foi realizada utilizando a linguagem Python, com as bibliotecas `Pand
   <img src="img_graficos/mapa_calor.png" alt="Gráfico 1" width="700">
 </p>
 
+
+- **Certificado**: Esse é o certificado de Aprovação do congresso.
+<p align="left">
+  <img src="img_graficos/certificado.png" alt="certificado" width="700">
+</p>
+
 Esses e outros resultados podem ser visualizados na seção de código.
 
 
